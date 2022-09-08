@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(58, 52, 61, 0.993);
+}
+
+.imgMain{
+    width: 180px;
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+
+.container {
+    max-width: 40%;
+    display: flex;
+}
+
+img {
+    height: 80px;
+    width: 80px;
+    display: block;
+    align-self: center;
+}
+
+span {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img:hover {
+    background-color: rgb(219, 219, 219);
+}
+
