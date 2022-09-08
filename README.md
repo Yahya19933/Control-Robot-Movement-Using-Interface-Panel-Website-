@@ -27,5 +27,3 @@ Design an interface to control the movement of the robot which could be in (forw
 
 As you see in the image above, we also register how long did the user pressed the button, he clicked the forward button for 3.3 seconds and clicked the right button for 1.6 seconds. This is useful later if we want the robot replay what the user clickd before
 
-![Capture](https://user-images.githubusercontent.com/90250848/189160773-672b7a44-dda3-41cd-8477-c6512c89ad94.PNG)
-
