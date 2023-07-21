@@ -1,4 +1,4 @@
-# Control-Robot-Movement-Using-Interface-Panel-Website-
+# Control-Robot-Movement-Using-Interface-Panel-Website
 Design an interface to control the movement of the robot which could be in (forward, left, backward, right)
 
 Design an interface to control the movement of the robot which could be in (forward, left, backward, right) direction. When user click on a certain direction the movement will be stored in a database
